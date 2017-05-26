@@ -9,12 +9,13 @@ Trying to duplicate Wikipedia style of html.
 
 
 Technologies used:
-
-Terminal
-Bootstrap
-CSS
-HTML
-Atom
-Git
-GitHub
+<ul>
+<li> Terminal </li>
+<li> Bootstrap </li>
+<li> CSS </li>
+<li> HTML </li>
+<li> Atom </li>
+<li> Git </li>
+<li> GitHub </li>
+</ul>
 Copyright (c) 2016 Careyokke
