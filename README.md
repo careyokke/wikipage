@@ -1,14 +1,14 @@
-An HTML page named Wikipage
+# ${1:An HTML page named Wikipage}
 
-05.25.2017
+# 05.25.2017
 
-by Yokke Hargono and Anna K
+# by Yokke Hargono and Anna K
 
-Description:
+# Description:
 Trying to duplicate Wikipedia style of html.
 
 
-Technologies used:
+## Technologies used:
 <ul>
 <li> Terminal </li>
 <li> Bootstrap </li>
@@ -18,4 +18,5 @@ Technologies used:
 <li> Git </li>
 <li> GitHub </li>
 </ul>
+
 Copyright (c) 2016 Careyokke
