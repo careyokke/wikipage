@@ -1,4 +1,4 @@
-# ${1:An HTML page named Wikipage}
+# An HTML page named Wikipage
 
 # 05.25.2017
 
